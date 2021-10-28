@@ -1,0 +1,77 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+	max-width: 800px;
+	text-decoration: none;
+	margin-left: auto;
+	margin-right: auto;
+	background: #232629;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	color: white;
+}
+
+
+.avatar {
+	border-radius: 50%;
+	height: 100px;
+	transition: 0.2s;
+	border: 5px solid #ffc4de;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+}
+
+.avatar:hover {
+	border-radius: 10%;
+	height: 120px;
+}
+
+.button {
+	background-color: #37474f;
+	color: white;
+	padding: 20px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	text-decoration: none;
+	display: inline-block;
+	transition: 0.2s;
+	font-size: 16px;
+	border-radius: 32px;
+	width: 80%;
+}
+
+.button:hover {
+	background-color: #62727b;
+	width: 85%;
+}
+
+.red {
+	background-color: #c62828;
+}
+
+.red:hover{
+	background-color: #ff5f52;
+}
+
+.orange {
+	background-color: #ef6c00;
+}
+
+.orange:hover {
+	background-color: #ff9d3f;
+}
+
+.cyan {
+	background-color: #00838f;
+}
+
+.cyan:hover {
+	background-color: #4fb3bf;
+}
+
+.blue {
+	background-color: #1565c0;
+}
+
+.blue:hover {
+	background-color: #5e92f3;
+}
