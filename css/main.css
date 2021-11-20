@@ -65,7 +65,7 @@ body {
 }
 
 .green:hover {
-	border: 5px solid #60ad5e;
+	background-color: #60ad5e;
 }
 
 .cyan {
