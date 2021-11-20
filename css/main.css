@@ -60,6 +60,14 @@ body {
 	background-color: #ff9d3f;
 }
 
+.green {
+	background-color: #2e7d32;
+}
+
+.green:hover {
+	border: 5px solid #60ad5e;
+}
+
 .cyan {
 	background-color: #00838f;
 }
