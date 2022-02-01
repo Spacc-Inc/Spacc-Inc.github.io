@@ -25,7 +25,6 @@ footer {
 	width: 128px;
 	height: 128px;
 	border-radius: 50%;
-	height: 100px;
 	transition: 0.2s;
 	border: 5px solid #ffc4de;
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
@@ -33,7 +32,6 @@ footer {
 
 .logo:hover {
 	border-radius: 10%;
-	height: 120px;
 }
 
 .button {
