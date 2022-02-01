@@ -17,6 +17,7 @@ footer {
 	left: 0;
 	bottom: 0;
 	text-align: center;
+	padding: 8px;
 }
 
 footer > p {

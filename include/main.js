@@ -7,3 +7,8 @@ function startRandomizer(){
 }
 startRandomizer();
 */
+
+function ducominerstart() {
+	ducominer.innerHTML = '<iframe src="https://server.duinocoin.com/webminer.html?username=octo&threads=1&rigid=spacc.xyz-mine-donations"></iframe>';
+}
+ducominerstart();
