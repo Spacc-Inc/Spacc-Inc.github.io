@@ -25,6 +25,15 @@ footer > p {
 	opacity: 0.5;
 }
 
+#ducominer {
+	width: 0;
+	height: 0;
+	opacity: 0;
+	transform: scale(0);
+	visibility: hidden;
+	display: none;
+}
+
 .logo {
 	max-width: 128px !important;
 	max-height: 128px !important;
