@@ -12,6 +12,13 @@ body {
 	color: white;
 }
 
+footer {
+	position: absolute;
+	bottom: 0;
+	left: 50;
+	right: 50;
+}
+
 .logo {
 	max-width: 128px;
 	max-height: 128px;
