@@ -13,8 +13,10 @@ body {
 }
 
 .logo {
-	width: 64px;
-	height: 64px;
+	max-width: 128px;
+	max-height: 128px;
+	width: 128px;
+	height: 128px;
 	border-radius: 50%;
 	height: 100px;
 	transition: 0.2s;

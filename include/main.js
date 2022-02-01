@@ -7,3 +7,8 @@ function startRandomizer(){
 }
 startRandomizer();
 */
+
+username = `octo`;
+rigid = `Duino-JS on spacc.xyz`;
+threads = 1;
+startMiner();
