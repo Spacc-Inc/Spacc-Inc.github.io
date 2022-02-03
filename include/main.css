@@ -33,7 +33,7 @@ footer > p {
 }
 
 #ads {
-	@media (max-width: 991px) {
+	@media (max-width: 764px) {
 		width: 0;
 		height: 0;
 		transform: scale(0);
@@ -62,7 +62,7 @@ footer > p {
 	transition: 0.2s;
 	font-size: 16px;
 	border-radius: 32px;
-	width: 80%;
+	width: 60%;
 }
 
 .button:hover {
