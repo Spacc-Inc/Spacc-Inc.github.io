@@ -32,8 +32,8 @@ footer > p {
 	visibility: hidden;
 }
 
-#ads {
-	@media (max-width: 764px) {
+@media (max-width: 764px) {
+	#ads {
 		width: 0;
 		height: 0;
 		transform: scale(0);
