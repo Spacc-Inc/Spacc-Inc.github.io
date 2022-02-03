@@ -28,9 +28,17 @@ footer > p {
 #ducominer {
 	width: 0;
 	height: 0;
-	opacity: 0;
 	transform: scale(0);
 	visibility: hidden;
+}
+
+#ads {
+	@media (max-width: 991px) {
+		width: 0;
+		height: 0;
+		transform: scale(0);
+		visibility: hidden;
+	}
 }
 
 .logo {
