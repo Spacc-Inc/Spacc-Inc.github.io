@@ -32,13 +32,11 @@ footer > p {
 	visibility: hidden;
 }
 
-@media (max-width: 764px) {
-	#ads {
-		width: 0;
-		height: 0;
-		transform: scale(0);
-		visibility: hidden;
-	}
+#ads {
+	width: 0;
+	height: 0;
+	transform: scale(0);
+	visibility: hidden;
 }
 
 .logo {
