@@ -69,6 +69,14 @@ footer, footer > * {
 	width: 85%;
 }
 
+.purple {
+	background-color: #a83380;
+}
+
+.purple:hover{
+	background-color: #c8509f;
+}
+
 .red {
 	background-color: #c62828;
 }
@@ -83,6 +91,22 @@ footer, footer > * {
 
 .orange:hover {
 	background-color: #ff9d3f;
+}
+
+.yellow {
+	background-color: #c89900;
+}
+
+.yellow:hover {
+	background-color: #d6ab1e;
+}
+
+.grass {
+	background-color: #609e2d;
+}
+
+.grass:hover {
+	background-color: #76b643;
 }
 
 .green {
